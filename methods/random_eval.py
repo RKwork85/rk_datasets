@@ -11,7 +11,7 @@ with open('temp.jsonl', 'r') as f:
 
 with open('temp_eval.jsonl', 'a+', encoding='utf-8') as f:
 
-    for number in range(14):
+    for number in range(9):
         for item in range(10):
             # query = item['instruction']
             random_number = random.randint(start, end)
