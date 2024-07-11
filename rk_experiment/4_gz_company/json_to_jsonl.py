@@ -1,6 +1,6 @@
 import json
 
-with open ('/home/rkwork/work_place/project/rk_datasets/rk_temp.json', mode='r') as f:
+with open ('/home/rkwork/work_place/project/rk_datasets/rk_experiment/4_gz_company/temp.json', mode='r') as f:
     data = json.load(f)
     print(len(data))
 

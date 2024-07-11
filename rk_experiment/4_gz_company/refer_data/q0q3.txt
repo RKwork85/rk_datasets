@@ -1,0 +1,4 @@
+
+# 7b  30轮
+
+/home/rkwork/work_place/project/platform/gzcai/output/qwen1half-7b-chat/v77-20240711-163647/checkpoint-270
