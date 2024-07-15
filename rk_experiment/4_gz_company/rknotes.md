@@ -37,10 +37,18 @@
 ```
 v1: 200 
 
-80（自我认知） + 30(who is CEO)  + 90( Introduction about CEO)
+80（自我认知） + 30(who is CEO)  + 90( Introduction about CEO)  
 
 /home/rkwork/work_place/project/platform/gzcai/output/qwen1half-7b-chat/v81-20240711-194024
 8:2 20epoch 200step
+
+v2: 320 
+
+80（自我认知） + 30(who is CEO)  + 90( Introduction about CEO) + 120（company product）
+
+v3: 560
+
+80（自我认知） + 30(who is CEO)  + 90( Introduction about CEO) + 120（company product） + 24 * 10 （Introduction about company）
 
 ```
 

@@ -46,3 +46,5 @@ result
 
 
 /home/rkwork/work_place/project/platform/gzcai/output/qwen1half-1_8b-chat/v5-20240711-141515/checkpoint-240
+
+√
